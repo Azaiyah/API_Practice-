@@ -1,0 +1,15 @@
+/workspace/API_Practice-/API_Practice/bin/Debug/net8.0/API_Practice
+/workspace/API_Practice-/API_Practice/bin/Debug/net8.0/API_Practice.deps.json
+/workspace/API_Practice-/API_Practice/bin/Debug/net8.0/API_Practice.runtimeconfig.json
+/workspace/API_Practice-/API_Practice/bin/Debug/net8.0/API_Practice.dll
+/workspace/API_Practice-/API_Practice/bin/Debug/net8.0/API_Practice.pdb
+/workspace/API_Practice-/API_Practice/obj/Debug/net8.0/API_Practice.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/API_Practice-/API_Practice/obj/Debug/net8.0/API_Practice.AssemblyInfoInputs.cache
+/workspace/API_Practice-/API_Practice/obj/Debug/net8.0/API_Practice.AssemblyInfo.cs
+/workspace/API_Practice-/API_Practice/obj/Debug/net8.0/API_Practice.csproj.CoreCompileInputs.cache
+/workspace/API_Practice-/API_Practice/obj/Debug/net8.0/API_Practice.sourcelink.json
+/workspace/API_Practice-/API_Practice/obj/Debug/net8.0/API_Practice.dll
+/workspace/API_Practice-/API_Practice/obj/Debug/net8.0/refint/API_Practice.dll
+/workspace/API_Practice-/API_Practice/obj/Debug/net8.0/API_Practice.pdb
+/workspace/API_Practice-/API_Practice/obj/Debug/net8.0/API_Practice.genruntimeconfig.cache
+/workspace/API_Practice-/API_Practice/obj/Debug/net8.0/ref/API_Practice.dll
